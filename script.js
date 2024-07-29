@@ -24,4 +24,5 @@ $('#Next').on('click', function () {
 })
 $('#Back').on('click', function () {
   progressBar.Back()
+  i--;
 })
